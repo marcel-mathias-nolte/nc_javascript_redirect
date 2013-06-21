@@ -19,7 +19,7 @@
 /**
  * Table tl_content
  */
-$GLOBALS['TL_DCA']['tl_content']['palettes']['redirect'] = '{type_legend},type,headline;{js_redirect_legend},js_redirect_timeout,js_redirect_jump_to;{text_legend},text;{image_legend},addImage;{protected_legend:hide},protected;{expert_legend:hide},guests,invisible,cssID,space';
+$GLOBALS['TL_DCA']['tl_content']['palettes']['nc_js_redirect'] = '{type_legend},type,headline;{js_redirect_legend},js_redirect_timeout,js_redirect_jump_to;{text_legend},text;{image_legend},addImage;{protected_legend:hide},protected;{expert_legend:hide},guests,invisible,cssID,space';
 $GLOBALS['TL_DCA']['tl_content']['fields']['js_redirect_jump_to'] = array(
 	'label'                   => &$GLOBALS['TL_LANG']['tl_content']['js_redirect_jump_to'],
 	'inputType'               => 'pageTree',
