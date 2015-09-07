@@ -84,5 +84,3 @@ class ContentNcJavascriptRedirect extends \ContentElement
 		}
 	}
 }
-
-?>

@@ -39,5 +39,5 @@ ClassLoader::addClasses(array
  */
 TemplateLoader::addFiles(array
 (
-	'ce_javascript_redirect' => 'system/modules/nc_javascript_redirect/templates',
+	'ce_javascript_redirect' => 'system/modules/nc_javascript_redirect/templates/elements',
 ));

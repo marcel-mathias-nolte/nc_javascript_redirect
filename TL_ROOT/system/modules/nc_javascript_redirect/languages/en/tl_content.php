@@ -1,4 +1,4 @@
-<?php if (!defined('TL_ROOT')) die('You cannot access this file directly!');
+<?php
 
 /**
  * Contao Open Source CMS
@@ -22,5 +22,3 @@
 $GLOBALS['TL_LANG']['tl_content']['js_redirect_legend']      = 'Redirection';
 $GLOBALS['TL_LANG']['tl_content']['js_redirect_timeout']     = array('Timeout', 'Timeout in seconds before redirecting.');
 $GLOBALS['TL_LANG']['tl_content']['js_redirect_jump_to']     = array('Redirection target', 'Please choose a redirection target.');
-
-?>

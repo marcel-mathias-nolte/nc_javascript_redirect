@@ -1,4 +1,4 @@
-<?php if (!defined('TL_ROOT')) die('You cannot access this file directly!');
+<?php
 
 /**
  * Contao Open Source CMS
@@ -26,5 +26,3 @@ $GLOBALS['TL_LANG']['CTE']['nc_js_redirect'] = array('Weiterleitung', 'Weiterlei
  * Miscellaneous
  */
 $GLOBALS['TL_LANG']['MSC']['nc_js_redirect']['text'] = 'Sie werden nun automatisch weitergeleitet. Soll die automatische Weiterleitung nicht funktionieren so klicken Sie bitte <a href="%s">hier</a>.';
-
-?>

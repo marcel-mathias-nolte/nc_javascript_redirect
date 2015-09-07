@@ -1,4 +1,4 @@
-<?php if (!defined('TL_ROOT')) die('You cannot access this file directly!');
+<?php
 
 /**
  * Contao Open Source CMS
@@ -34,4 +34,3 @@ $GLOBALS['TL_DCA']['tl_content']['fields']['js_redirect_timeout'] = array(
 	'eval'                    => array('rgxp'=>'digit'),
 	'sql'                     => 'varchar(255) NOT NULL default \'\''
 );
-?>

@@ -1,4 +1,4 @@
-<?php if (!defined('TL_ROOT')) die('You cannot access this file directly!');
+<?php
 
 /**
  * Contao Open Source CMS
@@ -20,5 +20,3 @@
  * Content elements
  */
 $GLOBALS['TL_CTE']['miscellaneous']['nc_js_redirect'] = 'ContentNcJavascriptRedirect';
-
-?>
